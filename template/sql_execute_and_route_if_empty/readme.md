@@ -1,6 +1,6 @@
 # Abstract
 
-Example to execute a simple query and then route if empty or not
+Example to execute a simple query and then route if empty or not. Based on a discussion in https://stackoverflow.com/questions/52501201/how-can-i-filter-flow-files-upon-the-result-of-an-sql-query
 
 # Solution
 

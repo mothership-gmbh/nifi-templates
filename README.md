@@ -9,4 +9,6 @@ I want to be able to append a NiFi-attribute to an existing JSON.
 [Template](https://github.com/mothership-gmbh/nifi-templates/blob/master/template/replace_text/append_id_to_json.md)
 
 
-## Test
+## Run SQL-Query and route if empty
+
+[Template](https://github.com/mothership-gmbh/nifi-templates/blob/master/template/sql_execute_and_route_if_empty/readme.md)
